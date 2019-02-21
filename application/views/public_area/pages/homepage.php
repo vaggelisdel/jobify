@@ -9,6 +9,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <h1 style="text-align: center; margin-top: 10rem;">Καλωσήρθες στο Jobify!nnnn</h1>
+  <h1 style="text-align: center; margin-top: 10rem;">Καλωσήρθες στο Jobify!zscsdasdasfadfa</h1>
 </body>
 </html>
