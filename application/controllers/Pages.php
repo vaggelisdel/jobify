@@ -10,10 +10,10 @@ class Pages extends CI_Controller {
   // Αρχική Σελίδα
   public function index() {
     // 404 σφάλμα όταν το view δεν υπάρχει
-    if(!file_exists('application/views/guest_user_area/pages/homepage.php'))
+    if(!file_exists('application/views/public_area/pages/homepage.php'))
       show_404();
-    
-    $this->metadata['title'] = 'Jobify';
+
+      $this->metadata['title'] = 'Jobify';
 
     $this->load->view('public_area/pages/homepage', $this->metadata);
   }
