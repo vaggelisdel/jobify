@@ -15,6 +15,6 @@ class Pages extends CI_Controller {
     
     $this->metadata['title'] = 'Jobify';
 
-    $this->load->view('guest_user_area/pages/homepage', $this->metadata);
+    $this->load->view('public_area/pages/homepage', $this->metadata);
   }
 }
