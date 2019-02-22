@@ -17,4 +17,8 @@ class Pages extends CI_Controller {
 
     $this->load->view('public_area/pages/homepage', $this->metadata);
   }
+  public function troll() {
+      echo "troll";
+  }
+
 }
